@@ -18,8 +18,10 @@ I build clean, elegant, and high-performing web experiences.
 - Next.js
 - TypeScript
 - Tailwind CSS
+  
 **UI / UX**
 - Figma
+  
 **Other**
 - Headless UI (when needed)
 - WebSocket + REST API integration
